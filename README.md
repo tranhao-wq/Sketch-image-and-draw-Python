@@ -1,4 +1,7 @@
+
 # AI Image Drawer and Sketch Converter
+
+<img width="2048" height="2048" alt="Gemini_Generated_Image_efdehnefdehnefde" src="https://github.com/user-attachments/assets/9f2e276f-aec9-424d-90bc-69b19c258d62" />
 
 An interactive Python application that allows users to draw, convert images to sketches, and automatically recreate images using AI-powered drawing techniques.
 
