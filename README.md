@@ -2,7 +2,9 @@
 
 An interactive Python application that allows users to draw, convert images to sketches, and automatically recreate images using AI-powered drawing techniques.
 
-![AI Image Drawer Demo](screenshots/demo.png)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/8ae91872-12a9-4f88-ac8f-b49f0c6250c4" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5601606c-a3d9-4bdb-b6e8-d11c67bd8c57" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/762d893e-098c-459c-a54b-30ba04333602" />
 
 ## Features
 
@@ -59,16 +61,7 @@ python image_drawer.py
    - Save your work with "Save Drawing"
    - Browse and load previous drawings from the history panel
 
-## Example Outputs
 
-### Original Image to Sketch Conversion
-![Original to Sketch](screenshots/sketch_demo.png)
-
-### AI Auto-Drawing Result
-![Auto Draw](screenshots/autodraw_demo.png)
-
-### Free-hand Drawing
-![Free Drawing](screenshots/drawing_demo.png)
 
 ## Technical Details
 
